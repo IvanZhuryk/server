@@ -1379,5 +1379,49 @@
         "size": 245,
         "title": "ФІЛАДЕЛЬФІЯ З КРЕВЕТКОЮ"
       }
-    ]
+    ],
+    "products":[
+      {
+          "id":1,
+          "type":1,
+          "name":"Arena Breakout",
+          "img":"/game.png"
+      },
+      {
+          "id":2,
+          "type":1,
+          "name":"League of Legends",
+          "img":"/game.png"
+      },
+      {
+          "id":3,
+          "type":1,
+          "name":"Clash Royale",
+          "img":"/game.png"
+      },
+      {
+          "id":4,
+          "type":1,
+          "name":"PUBG Mobile",
+          "img":"/game.png"
+      },
+      {
+          "id":5,
+          "type":2,
+          "name":"Discord Nitro",
+          "img":"/game.png"
+      },
+      {
+          "id":6,
+          "type":2,
+          "name":"iTunes (AppStore)",
+          "img":"/game.png"
+      },
+      {
+          "id":7,
+          "type":3,
+          "name":"VPN сервисы",
+          "img":"/game.png"
+      }
+  ]
 }
